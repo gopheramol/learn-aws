@@ -1,0 +1,8 @@
+
+
+2024/05/23 16:47:07 Environment variables loaded successfully from .env file
+2024/05/23 16:47:07 AWS configuration loaded successfully
+2024/05/23 16:47:07 AWS client initialized successfully
+2024/05/23 16:47:07 Message service initialized successfully
+2024/05/23 16:47:22 Message ID: 38e989d5-dea7-4a26-a5e2-af75b7329fce, Body: Test 2
+2024/05/23 16:47:22 Successfully deleted message: 38e989d5-dea7-4a26-a5e2-af75b7329fce
